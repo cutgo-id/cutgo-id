@@ -15,8 +15,8 @@ Platform pemendek URL super cepat untuk creator Indonesia. Ubah link panjang jel
 - 🎨 Custom alias: cutgo.id/nama-kamu
 - 💜 100% Free
 
-#### 📫 Connect
-Website • GitHub: @cutgo-id
+#### 📩 Connect
+[Website](https://cutgo.id) • [X](https://x.com/cutgo_id) • [LinkedIn](https://www.linkedin.com/in/cutgo) • @cutgo-id
 
 <p align="center">Made with 💜 for Indonesian Creators</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
